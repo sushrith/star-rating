@@ -1,0 +1,16 @@
+.component{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+    user-select: none; 
+}
+#star-container{
+    font-size: 40px;
+    color: grey;
+    cursor: pointer;
+    user-select: none;
+}
+
+.filled{
+    color: rgb(220, 234, 100);
+}
